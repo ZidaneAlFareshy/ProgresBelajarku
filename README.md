@@ -44,3 +44,5 @@ Hasil: Dalam Memahami Kebutuhan Aplikasi saya belajar diantaranya :
 9. Tips sikap kerja dalam kolaborasi perencanaan aplikasi dengan tim
 10. Rangkuman perencaan modifikasi aplikasi
 11. Menyelesaikan kuis perencanaan modifikasi aplikasi
+
+## sjdksjdksdj
